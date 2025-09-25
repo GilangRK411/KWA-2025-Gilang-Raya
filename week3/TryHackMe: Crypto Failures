@@ -1,0 +1,8 @@
+Crypto Failures TryHackMe Write-up
+
+1. coba masuk scan menggunakan nmap dengan menggunakan alamat ip yang diberikan
+
+2. disitu ada 2 port yang terbuka, coba port 80 dan coba masuk
+
+nanti akan ada pemberitahuan seperti itu
+3. 
