@@ -10,3 +10,6 @@ nanti akan ada pemberitahuan seperti itu
 
 3. Coba cek di Burp Suite di alamat IP tadi
 <img width="387" height="232" alt="image" src="https://github.com/user-attachments/assets/61f809b3-a4f1-48f0-b108-ed3cdf2faf15" />
+
+coba masuk ke /location dan disitu akan seperti ini
+<img width="395" height="284" alt="image" src="https://github.com/user-attachments/assets/ef39d7f6-6bd7-43a7-aa44-ecb46b8fe54c" />
